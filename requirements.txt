@@ -1,0 +1,10 @@
+numpy
+fastapi
+uvicorn
+transformers
+tensorflow
+pandas
+datasets
+seaborn
+matplotlib
+-e .
